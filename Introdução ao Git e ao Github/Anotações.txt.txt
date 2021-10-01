@@ -1,0 +1,38 @@
+1- Crie um repositório com a descrição que você deseja no seu GitHub;
+
+2- Copie o link deste repositório e deixe na área de transferência;
+
+3 - Abra um pasta no seu computador que onde você vai salvar todos os arquivos que você deseja colocar no repositório;
+
+4-Abra o terminal nesta pasta, ou então navegue até ela dependendo de onde seu terminal foi aberto;
+
+5- Digite o seguinte comando git clone  cole o link do repositório que você copiou assim, será criada uma pasta no seu computador que terá um link direto com aquele repositório;
+
+6- coloque todos os arquivos que você deseja fazer upload dentro desta pasta criada;
+
+7- Após colocar todos os arquivos, siga os seguintes comandos
+
+git add .
+
+git commit -m mensagem do commit
+
+git push
+
+
+
+8- Após estes passos, você deve conseguir visualizar todos seus arquivos lá no GitHub!
+
+
+
+Obs esse passo a passo pode ser feito para vários repositórios, mas caso você queira colocar mais arquivos em repositórios já criados é só colocar os arquivos novos (ou modificados) dentro da pasta já criada e seguir o passo a passo a partir do git add . 
+
+
+
+Caso solicite alguma senha e você não esteja conseguindo acesso, desde 31 de agosto está sendo necessário gerar um token para liberar o acesso. Você pode conseguir através deste link httpsgithub.comsettingstokens689368052regenerate 
+
+Caso o link não funcione, siga o link que paraece no seu terminal quando o push para o repositório retorna um erro.
+
+
+
+Após criar seu token, quando o terminal solicitar a senha do GitHub, utilize o token gerado, ele pode ter validade de 30 dias e dentro deste tempo você não terá problemas com os uploads, até ter que renovar o token neste mesmo link!
+
