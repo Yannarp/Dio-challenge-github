@@ -1,5 +1,5 @@
-# Dio-Challenge-Git/Github
+# Dio-Challenge-Git/Github 😜
 Git/Github Project Challenge
 
-## Links úteis
+## Links úteis ✔️
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
